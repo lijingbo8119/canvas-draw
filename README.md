@@ -5,7 +5,7 @@
 ## How to use
 ```html
 <canvas id="canvasBox" style="width: 400px;height: 400px"></canvas>
-<button onclick="downloadDraw">download</button>
+<button onclick="downloadDraw()">download</button>
 <!--just for dev-->
 <script src="http://s.ljb.work/libs/draw-es5.js"></script>
 
