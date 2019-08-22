@@ -1,5 +1,6 @@
 /**
  * Created by louizhai on 17/6/30.
+ * Updated by lijingbo on 19/8/22.
  *
  * description: Use canvas to draw.
  */
